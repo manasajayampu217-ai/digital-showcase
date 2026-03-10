@@ -5,7 +5,7 @@ const education = [
   {
     institution: "Avanthi Institute of Engineering and Technology",
     degree: "B.Tech in Computer Science",
-    location: "Nellore, India",
+    location: "VSKP, India",
     detail: "CGPA: 7.5/10",
     coursework: "Data Structures & Algorithms, DBMS, Operating Systems",
   },
